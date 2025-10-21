@@ -1,5 +1,6 @@
 <?php
 
+namespace App\Constants;
 class Animal
 {
     const SPECIES = "Canis Lupus Familiaris";

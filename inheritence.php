@@ -1,5 +1,7 @@
 <?php
 
+namespace App\Inheritance;
+
 // inheritence 
 
 class Animal
