@@ -10,6 +10,6 @@ class Person {
 }
 
 $person = new Person();
-echo $person->details('Alice', 30);
+echo $person->details('Alice', 30); // Outputs: Name: Alice, Age: 30
 
 ?>
